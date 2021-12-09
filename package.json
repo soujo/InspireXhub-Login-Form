@@ -1,0 +1,20 @@
+{
+  "name": "inspirexhub-login-form",
+  "version": "1.0.0",
+  "description": "inspirexhub dev-in-dec web development session: login-form",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "server": "nodemon src/app.js"
+  },
+  "author": "soujanya hazra",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
