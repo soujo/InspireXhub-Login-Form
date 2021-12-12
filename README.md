@@ -3,7 +3,7 @@
 
 ### Login form image
 
-* This form was made by me (Back-End) and @Rupam Matabbar (Front-End) for the programme
+* This form was made by me (Back-End) and @Rupam-Matabber (Front-End) for the programme
   
 <br>
 
