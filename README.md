@@ -7,7 +7,7 @@
   
 <br>
 
-![image](img/login-page.png)
+![image](https://raw.githubusercontent.com/soujo/InspireXhub-Login-Form/master/img/login-page.png)
 
 
 
