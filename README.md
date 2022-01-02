@@ -1,4 +1,4 @@
-## InspireXhub Dev-in-Dec Programme ( Login Form )
+## InspireXhub Dev-in-Dec Program ( Login Form )
 <br>
 
 ### Login form image
@@ -14,7 +14,7 @@
     #### InspireXHub is a learning community of developers or those who want to pursue a career in software development or engineering
 
 
-* What is Dev-in-Dec Programme?
+* What is Dev-in-Dec Program?
     #### Dev in Dec is a 3 week long program in different domains specially for beginners to start off with any development field they like.
 <br>
 
